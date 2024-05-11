@@ -29,7 +29,7 @@
 ### este es el pdf la practica que pidio candy para desplegar una aplicacion en la nube, seguir a partir del paso 4
 
 ## verificar si llegan los mensajes
-### en el google cloud accedan al explorador de registros, aqui podran ver cuando lleguen los mensajes 
+### en el google cloud accedan al explorador de registros, aqui podran ver cuando lleguen los mensajes y su contenido
 ![image](https://github.com/Ulises-castellanos/Ubicuo/assets/78512508/117a702a-bdd8-4650-bbd8-d262e7b3ca18)
 
 
